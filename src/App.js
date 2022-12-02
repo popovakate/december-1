@@ -9,7 +9,7 @@ function App() {
         <Weather />
         <footer>
           This project is coded by Kate Popova and is{" "}
-          <a href="https://github.com/popovakate/december-1">
+          <a href="https://github.com/popovakate/december-1" target="_blank">
             open-sourced on Github
           </a>
         </footer>
