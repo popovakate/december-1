@@ -13,7 +13,7 @@ function App() {
           <a
             href="https://github.com/popovakate/december-1"
             target="_blank"
-            rel="noopener"
+            rel="noreferrer"
           >
             open-sourced on Github
           </a>
