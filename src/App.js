@@ -10,7 +10,11 @@ function App() {
         <Weather defaultCity="Kyiv" />
         <footer>
           This project is coded by Kate Popova and is{" "}
-          <a href="https://github.com/popovakate/december-1" target="_blank">
+          <a
+            href="https://github.com/popovakate/december-1"
+            target="_blank"
+            rel="noopener"
+          >
             open-sourced on Github
           </a>
         </footer>
