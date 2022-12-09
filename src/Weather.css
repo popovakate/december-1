@@ -4,6 +4,7 @@
   padding: 16px;
   border-radius: 4px;
   color: rgb(135, 135, 135);
+  background-color: #fdfdfd;
   box-shadow: 0 3px 8px rgb(0 0 0 / 24%);
 }
 
@@ -38,7 +39,7 @@
 }
 
 .Weather canvas {
-  margin: 10px auto;
+  margin: 10px;
 }
 
 .Weather .unit {
