@@ -1,15 +1,17 @@
 .Weather {
   font-family: arial, sans-serif;
-  border: 1px solid #dadde1;
+  border: 2px solid #a2a8d3;
   padding: 16px;
   border-radius: 4px;
   color: rgb(135, 135, 135);
+  box-shadow: 0 3px 8px rgb(0 0 0 / 24%);
 }
 
 .Weather h1 {
-  font-size: 24px;
+  font-size: 30px;
+  color: #6e7da2;
   font-weight: 100;
-  margin: 20px 0 0 0;
+  margin: 20px 0 6px 0;
   line-height: 29px;
 }
 
@@ -46,4 +48,13 @@
   position: relative;
   line-height: 1;
   top: -34px;
+}
+
+.Weather .btn {
+  background-color: #db996c;
+  border-color: #db996c;
+}
+
+hr {
+  color: #db996c;
 }
